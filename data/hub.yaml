@@ -1,0 +1,26 @@
+hub:
+  host:  http://10.136.121.126:4444
+  brows:
+    - chrome
+bossuser:
+  name: 00000000
+  password: 0000
+onebianzhi:
+  name: 00170004
+  password: Aa123456!
+
+oneshenpi:
+  name: 00170067
+  password: 000000
+lianxishenpi:
+  name: 01040001
+  password: 0000
+twobianzhi:
+  name:
+  password:
+twoshenpi:
+  name:
+  password:
+threebianzhi:
+  name:
+  password:
